@@ -1,6 +1,5 @@
 # Modern Portfolio Web Uygulaması
 
-![Portfolio Preview](public/portfolio-preview.png)
 
 Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, tam kapsamlı bir portföy web uygulamasıdır. Dinamik içerik yönetimi, blog yazıları, proje vitrinleri ve iletişim özellikleri ile profesyonel bir portföy deneyimi sunar.
 
@@ -135,16 +134,8 @@ npm run build
 firebase deploy
 ```
 
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
 ## 🤝 İletişim
-
 Ahmet Can Bozkurt - [LinkedIn](https://www.linkedin.com/in/ahmetcanbozkurt/) - ahmetcanb785@gmail.com
-
-Proje Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
 
 ---
 
-⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
